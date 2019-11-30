@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.liyuanjinglyj.customviewgroup.MyViewGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@android:color/holo_red_dark"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="我是第一个子控件"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="我是第二个子控件"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="我是第三个子控件（但我加长了）"/>
+
+
+</com.liyuanjinglyj.customviewgroup.MyViewGroup>
